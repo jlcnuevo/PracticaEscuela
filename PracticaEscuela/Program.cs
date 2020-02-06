@@ -19,6 +19,7 @@ namespace PracticaEscuela
             Application.Run(new Inicio());
             Console.WriteLine("Github");
             Console.WriteLine("Github");
+            Console.WriteLine("jlnuevo");
         }
     }
 }
